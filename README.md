@@ -64,9 +64,6 @@ So once you have a branch that you are happy with, go to BitBucket, and create a
 This is a solid start, if you have any questions then either Google it or just ask, cus its better to ask then to break something lol 
 
 If you got this far, try it! Pull this change to your computer, and add your name to the bottom of this file (README.md) and then push it! :D
---Dan
---Minfan Wang
---Jon
 
 [1]: https://github.com/join
 [2]: https://git-for-windows.github.io/
